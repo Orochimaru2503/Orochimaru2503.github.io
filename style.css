@@ -10,3 +10,7 @@ body{
     background-size: 100%;
 }
 
+img.expando{
+    border: none;
+    vertical-align: bottom;
+}
