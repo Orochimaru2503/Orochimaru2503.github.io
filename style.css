@@ -1,0 +1,12 @@
+h1{
+    font-family: 'Exo 2', sans-serif;
+    color:white;
+    padding: 7px;
+    margin: 10px;
+}
+
+body{
+    background: url(2.png) no-repeat;
+    background-size: 100%;
+}
+
