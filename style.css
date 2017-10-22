@@ -5,7 +5,7 @@ body, html {
     margin: 0;
 }
 
-/*#particles-js {
+#particles-js {
     top: 0;
     left: 0;
     width: 100%;
@@ -13,10 +13,6 @@ body, html {
     z-index: 1;
 }
 
-#page-wrapper {
-    position: relative;
-    z-index: 2;
-}*/
 
 h1{
     font-family: 'Exo 2', sans-serif;
@@ -29,4 +25,5 @@ img.expando{
     display: inline-border;
     border: none;
     vertical-align: bottom;
+    z-index: 2;
 }
