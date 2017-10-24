@@ -1,29 +1,34 @@
 body, html {
-    background: url(2.png) no-repeat;
+    background: url(2.jpg) no-repeat;
     background-size: 100%;
-    padding: 0;
-    margin: 0;
+    width:100%;
+	height:1250px;
 }
 
 #particles-js {
-    top: 0;
-    left: 0;
     width: 100%;
-    height: 100%;
-    z-index: 1;
+    height: 1150px;
 }
 
 
 h1{
     font-family: 'Exo 2', sans-serif;
+    position: absolute;
     color:white;
+    top: auto;
+    left: 130px;
     padding: 7px;
     margin: 10px;
 }
 
 img.expando{
-    display: inline-border;
-    border: none;
-    vertical-align: bottom;
-    z-index: 2;
+    position: absolute;
+    top: 100px;
+    left: 450px;
+}
+
+#liveint{
+    position: absolute;
+    top: 1200px;
+    left: 600px;   
 }
